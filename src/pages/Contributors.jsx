@@ -98,6 +98,11 @@ const contributors = [
 		github: "https://github.com/SaiChithra333",
 		avatar: "https://avatars.githubusercontent.com/u/158245450?v=4",
   },
+	{
+	name: "Aashay Nema",
+	github: "https://github.com/Naashya1420",
+	avatar: "https://avatars.githubusercontent.com/u/145988987?v=4",
+   },    
   	{
 		name: "Sarvesh Kumar",
 		github: "https://github.com/Sarvesh0955",
@@ -108,7 +113,6 @@ const contributors = [
 		github: "https://github.com/nandinibhagwat",
 		avatar: "https://avatars.githubusercontent.com/u/149354876?s=400&v=4";
 	}
-
 	// Add more contributors here
 ];
 
